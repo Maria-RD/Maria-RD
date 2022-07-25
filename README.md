@@ -6,7 +6,7 @@
 ### <div align="center">I'm Maria, a full-time Jr. Net backend developer 👩‍💻 working since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [a Hospital Project.](https://github.com/Maria-RD/HospitalProject)  
+- 🔭 I’m currently working on [an Appointment Scheduling System.](https://github.com/Maria-RD/AppointmentScheduling)  
   
 
 - 🌱 I’m currently learning how to create RESTful API with ASP.NET Core.  
