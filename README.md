@@ -1,27 +1,13 @@
-<div align="center">
-<img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Maria, a full-time Jr. Net backend developer 👩‍💻 working since 2021 🚀</div>  
-  
-
-- 🔭 I’m currently working on [an Appointment Scheduling System.](https://github.com/Maria-RD/AppointmentScheduling)  
-  
-
-- 🌱 I’m currently learning how to create RESTful API with ASP.NET Core.  
-  
-
-- 🤝 I’m open to collaborate in any .NET Framework/Core project.  
-  
-
-- ⚡ Fun fact: I love to use dark theme everywhere!  
-  
-
-<br/>  
+# 💫Hello World!
+### <div align="center">I'm Maria, a full-time .NET Junior Developer 👩‍💻 working since 2021 🚀</div>  
+🔭 I’m currently working on an Appointment Scheduling System.<br>🌱 I’m currently learning a challenging language: C++<br>🤝 I’m open to collaborate in any .NET Framework/Core project.<br>⚡ Fun fact: I love to use dark theme everywhere!
 
 
-## My Skill Set  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-rd/) 
+
+# 💻 Tech Stack:
+
 <table><tr><td valign="top" width="33%">
 
 
@@ -58,53 +44,22 @@
 
 <br/>  
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maria-rd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=maria-rd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-rd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/maria-rd" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/maria-rd" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+### ✍️ Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br/>  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=maria-rd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=maria-rd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=maria-rd&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-Coming soon!
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
+  ## 💰 Would you like to join me for a cup of ~~coffee~~ chocolate? ☕
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/mariard10) 
 
   
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=maria-rd&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/mariard10" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
