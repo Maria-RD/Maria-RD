@@ -59,7 +59,7 @@
 [![](https://visitcount.itsvg.in/api?id=maria-rd&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 Would you like to join me for a cup of ~~coffee~~ chocolate? ☕
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/mariard10) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mariard10) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
